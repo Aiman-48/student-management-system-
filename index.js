@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let Balance = 0;
 let randomId = Math.floor(10000 + Math.random() * 90000);
